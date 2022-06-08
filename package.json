@@ -9,7 +9,7 @@
     "lint": "eslint *.js"
   },
   "lint-staged": {
-    "*.{js}": [
+    "*.js": [
       "eslint"
     ]
   }
